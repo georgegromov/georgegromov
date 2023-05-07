@@ -13,15 +13,15 @@
 <br>
 
 -	General
--		HTML, CSS, JavaScript, TypeScript, Git, Github, Figma
+	-	HTML, CSS, JavaScript, TypeScript, Git, Github, Figma
 -	Frontend
--		ReactJS, NextJS, Redux Toolkit, Sass, Tailwind, Storybook, Strapi, Webpack, Vite
+	-	ReactJS, NextJS, Redux Toolkit, Sass, Tailwind, Storybook, Strapi, Webpack, Vite
 -	Backend
--		NodeJS, ExpressJS, MongoDB
+	-	NodeJS, ExpressJS, MongoDB
 -	Code Quality
--		Eslint, Stylelint, Prettier
+	-	Eslint, Stylelint, Prettier
 -	Testing
--		Jest, Cypress
+	-	Jest, Cypress
 
 <!--
 <h3>General</h3>
