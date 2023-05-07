@@ -14,12 +14,16 @@
 
 -	General
 	-	HTML, CSS, JavaScript, TypeScript, Git, Github, Figma
+<hr>
 -	Frontend
 	-	ReactJS, NextJS, Redux Toolkit, Sass, Tailwind, Storybook, Strapi, Webpack, Vite
+<hr>
 -	Backend
 	-	NodeJS, ExpressJS, MongoDB
+<hr>
 -	Code Quality
 	-	Eslint, Stylelint, Prettier
+<hr>
 -	Testing
 	-	Jest, Cypress
 
