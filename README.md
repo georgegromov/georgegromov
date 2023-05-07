@@ -2,14 +2,14 @@
 
 <br>
 
--	🔭 Work experience 1 year
+-	⚡ Work experience 1 year
 -	👀 I’m interested in ReactJS, NextJS, Redux, TypeScript
 -	📫 How to reach me: 
 	- gromov.dev13@gmail.com
 
 <br>
 
-<h2>⚡ Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
 <br>
 
