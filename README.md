@@ -1,9 +1,10 @@
 <h1>👋 Hello there! I'm George</h1>
 
 <br>
-- 🔭 Work experience 1 year
-- 👀 I’m interested in TypeScript, React, NextJS, Redux Toolkit
-- 📫 How to reach me: 
+
+-	🔭 Work experience 1 year
+-	👀 I’m interested in ReactJS, NextJS, Redux, TypeScript
+-	📫 How to reach me: 
 	- gromov.dev13@gmail.com
 
 <br>
@@ -15,15 +16,19 @@
 -	General
 	-	HTML, CSS, JavaScript, TypeScript, Git, Github, Figma
 <br>
+
 -	Frontend
-	-	ReactJS, NextJS, Redux Toolkit, Sass, Tailwind, Storybook, Strapi, Webpack, Vite
+	-	ReactJS, NextJS, Astro, Redux, Sass, Tailwind, Storybook, Strapi
 <br>
+
 -	Backend
 	-	NodeJS, ExpressJS, JWT, MongoDB
 <br>
+
 -	Code Quality
 	-	Eslint, Stylelint, Prettier
 <br>
+
 -	Testing
 	-	Jest, Cypress
 
