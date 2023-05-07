@@ -12,6 +12,18 @@
 
 <br>
 
+-	General
+-		HTML, CSS, JavaScript, TypeScript, Git, Github, Figma
+-	Frontend
+-		ReactJS, NextJS, Redux Toolkit, Sass, Tailwind, Storybook, Strapi, Webpack, Vite
+-	Backend
+-		NodeJS, ExpressJS, MongoDB
+-	Code Quality
+-		Eslint, Stylelint, Prettier
+-	Testing
+-		Jest, Cypress
+
+<!--
 <h3>General</h3>
 
 
@@ -135,7 +147,7 @@
 
 <br>
 
-<!--
+
 - 👋 Hi, I’m George
 - 👀 I’m interested in TypeScript, React, NextJS
 - ⚡ Technologies:
