@@ -1,7 +1,7 @@
 <h1>👋 Hello there! I'm George</h1>
 
 <br>
-- 🔭 Work experience 1 year
+
 - 👀 I’m interested in TypeScript, React, NextJS, Redux Toolkit
 - 📫 How to reach me: 
 	- gromov.dev13@gmail.com
