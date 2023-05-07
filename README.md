@@ -2,7 +2,7 @@
 
 <br>
 
-- 👀 I’m interested in TypeScript, React, NextJS
+- 👀 I’m interested in TypeScript, React, NextJS, Redux Toolkit
 - 📫 How to reach me: 
 	- gromov.dev13@gmail.com
 
