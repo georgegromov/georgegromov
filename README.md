@@ -17,7 +17,7 @@
 <h2>💻 Tech Stack</h2>
 <div>
 <div>
-<h3>Frontend</h3>
+<h3>🔮 Frontend</h3>
 <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/nextJS-000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/astro-30254B?style=for-the-badge&logo=astro&logoColor=white" />
@@ -30,7 +30,7 @@
 <br>
 	
 <div>
-<h3>Backend</h3>
+<h3>⚙️ Backend</h3>
 <img src="https://img.shields.io/badge/nodejs-5B8F4E?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=000" />
 <img src="https://img.shields.io/badge/jwt-000?style=for-the-badge&logo=jwt.io&logoColor=000" />
