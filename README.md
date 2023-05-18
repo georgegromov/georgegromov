@@ -1,12 +1,10 @@
 <h1>👋 Hello there! I'm George</h1>
 
 <br>
+
 <h4>⚡ Work experience 1 year</h4>
 <h4>👀 I’m interested in ReactJS, NextJS, Redux, TypeScript</h4>
 <h4>📫 How to reach me:</h4>
--	⚡ Work experience 1 year
--	👀 I’m interested in ReactJS, NextJS, Redux, TypeScript
--	📫 How to reach me:
 <a target="_blank" href='mailto:gromov.dev13@gmail.com'>
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=google&logoColor=FBBC04" />
 </a>
@@ -28,7 +26,9 @@
 <img src="https://img.shields.io/badge/tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />
 </div>
+	
 <br>
+	
 <div>
 <h3>Backend</h3>
 <img src="https://img.shields.io/badge/nodejs-5B8F4E?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -36,7 +36,9 @@
 <img src="https://img.shields.io/badge/jwt-000?style=for-the-badge&logo=jwt.io&logoColor=000" />
 <img src="https://img.shields.io/badge/mogodb-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
 </div>
+	
 <br>
+
 <div>
 <h3>🛠 Tools</h3>
 <img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />
