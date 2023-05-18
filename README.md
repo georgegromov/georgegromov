@@ -1,4 +1,4 @@
-<h2>👋 Hello there! I'm George</h2>
+<h1>👋 Hello there! I'm George</h1>
 
 <br>
 
@@ -26,14 +26,14 @@
 <img src="https://img.shields.io/badge/tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />
 </div>
-	
+<br>
 <div>
 <h3>Backend</h3>
 <img src="https://img.shields.io/badge/nodejs-5B8F4E?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=000" />
 <img src="https://img.shields.io/badge/jwt-000?style=for-the-badge&logo=jwt.io&logoColor=000" />
 <img src="https://img.shields.io/badge/mogodb-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
-
+<br>
 </div>
 <div>
 <h3>🛠 Tools</h3>
