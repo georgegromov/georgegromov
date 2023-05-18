@@ -1,7 +1,9 @@
 <h1>👋 Hello there! I'm George</h1>
 
 <br>
-
+<h6>⚡ Work experience 1 year</h6>
+<h6>👀 I’m interested in ReactJS, NextJS, Redux, TypeScript</h6>
+<h6>📫 How to reach me:</h6>
 -	⚡ Work experience 1 year
 -	👀 I’m interested in ReactJS, NextJS, Redux, TypeScript
 -	📫 How to reach me:
