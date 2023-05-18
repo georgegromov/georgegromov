@@ -5,12 +5,12 @@
 -	⚡ Work experience 1 year
 -	👀 I’m interested in ReactJS, NextJS, Redux, TypeScript
 -	📫 How to reach me:
--	<a target="_blank" href='mailto:gromov.dev13@gmail.com'>
--	<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=google&logoColor=FBBC04" />
--	</a>
--	<a target="_blank" href="https://t.me/george_dev13">
-  	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-	</a>
+<a target="_blank" href='mailto:gromov.dev13@gmail.com'>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=google&logoColor=FBBC04" />
+</a>
+<a target="_blank" href="https://t.me/george_dev13">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 <br>
 
