@@ -33,8 +33,8 @@
 <img src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=000" />
 <img src="https://img.shields.io/badge/jwt-000?style=for-the-badge&logo=jwt.io&logoColor=000" />
 <img src="https://img.shields.io/badge/mogodb-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
-<br>
 </div>
+<br>
 <div>
 <h3>🛠 Tools</h3>
 <img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />
