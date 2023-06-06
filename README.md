@@ -8,7 +8,7 @@
 		<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=google&logoColor=FBBC04" alt='Email' />
 	</a>
 	<a href="https://t.me/george_dev13">
-		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='Telegram' />
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt='Telegram' />
 	</a>
 </div>
 
