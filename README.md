@@ -1,4 +1,4 @@
-<div id='header' align='center'>
+<div id='header' align='left'>
 	<h1>👋 Hello there! I'm George</h1>
 	<h3>Frontend React Developer from Russia</h3>
 	<a href="https://www.linkedin.com/in/george-gromov/">
