@@ -1,13 +1,13 @@
 <div id='header' align='center'>
 	<h1>👋 Hello there! I'm George</h1>
 	<h3>Frontend React Developer from Russia</h3>
-	<a target="_blank" href="https://www.linkedin.com/in/george-gromov/">
+	<a href="https://www.linkedin.com/in/george-gromov/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' />
 	</a>
-	<a target="_blank" href='mailto:gromov.dev13@gmail.com'>
-		<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=google&logoColor=FBBC04" alt='Email' />
+	<a href='mailto:gromov.dev13@gmail.com'>
+		<img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=google&logoColor=FBBC04" alt='Email' />
 	</a>
-	<a target="_blank" href="https://t.me/george_dev13">
+	<a href="https://t.me/george_dev13">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='Telegram' />
 	</a>
 </div>
