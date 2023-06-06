@@ -16,11 +16,11 @@
 
 <div id='header' align='center'>
 	<h2>About me</h2>
-	🌱 I’m currently learning **Web-Dev, Data Structure, Algorithms**
-	⚡ Work experience **1 Year**
-	Know about my experience [CV]()
-	Get to know me better [Fortfolio]()
-	I speak Russian, English, Deutsch
+	-	🌱 I’m currently learning **Web-Dev, Data Structure, Algorithms**
+	-	⚡ Work experience **1 Year**
+	-	Know about my experience [CV]()
+	-	Get to know me better [Fortfolio]()
+	-	I speak Russian, English, Deutsch
 </div>
 
 <br>
