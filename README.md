@@ -5,10 +5,13 @@
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' />
 	</a>
 	<a href='mailto:gromov.dev13@gmail.com'>
-		<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=google&logoColor=FBBC04" alt='Email' />
+		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt='Email' />
 	</a>
 	<a href="https://t.me/george_dev13">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt='Telegram' />
+	</a>
+	<a href='mailto:gromov.dev13@gmail.com'>
+		<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=google&logoColor=white" alt='Email' />
 	</a>
 </div>
 
