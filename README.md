@@ -19,7 +19,7 @@
 
 <div id='header' align='left'>
 	<h2>About me</h2>
-	<div>🌱 I’m currently learning Web-Dev, Data Structure, Algorithms</div>
+	<div>🌱 I’m currently learning Web-developing, Data Structure, Algorithms</div>
 	<div>⚡ Work experience 1 Year</div>
 	<div>Know about my experience [CV]()</div>
 	<div>Get to know me better [Fortfolio]()</div>
