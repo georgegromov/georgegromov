@@ -21,9 +21,10 @@
 	<h2>About me</h2>
 	<div>🌱 I’m currently learning web-developing, data structures, algorithms</div>
 	<div>⚡ Work experience 1 Year</div>
+	<div>I speak Russian, English, Deutsch</div>
 	<div>Know about my experience [CV]()</div>
 	<div>Get to know me better [Fortfolio]()</div>
-	<div>I speak Russian, English, Deutsch</div>	
+<!-- 	My CV | Fortfolio website -->
 </div>
 
 <br>
