@@ -22,9 +22,9 @@
 	<div>🌱 I’m currently learning web development, data structures, algorithms</div>
 	<div>⚡ Work experience 1 Year</div>
 	<div>I speak Russian, English, Deutsch</div>
-	<div>Know about my experience [CV]()</div>
-	<div>Get to know me better [Fortfolio]()</div>
-<!-- 	My CV | Fortfolio website -->
+<!-- 	<div>Get to know me better [Resume]()</div>
+	<div>[Fortfolio](https://resume.io/r/AaOy7ugfU)</div> -->
+	My [Resume](https://resume.io/r/AaOy7ugfU) | [Fortfolio website](https://resume.io/r/AaOy7ugfU)
 </div>
 
 <br>
