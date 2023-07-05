@@ -23,7 +23,7 @@
 	<div>⚡ Work experience 1 Year</div>
 	<div>I speak Russian, English, Deutsch</div>
 	<br/>
-	<a href="https://resume.io/r/AaOy7ugfU">Resume</a> | <a href="https://resume.io/r/AaOy7ugfU">Fortfolio</a>
+	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >Resume</a> | <a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer' >Fortfolio</a>
 </div>
 
 <br>
