@@ -21,9 +21,12 @@
 	<h2>About me</h2>
 	<div>🌱 I’m currently learning web development, data structures, algorithms</div>
 	<div>⚡ Work experience 1 Year</div>
-	<div>I speak Russian, English, Deutsch</div>
+	<div>🌎 I speak Russian, English, Deutsch</div>
 	<br/>
-	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >Resume</a> | <a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer' >Fortfolio</a>
+	Resume: &nbsp;
+	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >EN</a> | <a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer' >RU</a>
+	<br/>
+	Portfolio: &nbsp;<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >Website</a>
 </div>
 
 <br>
