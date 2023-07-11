@@ -22,6 +22,7 @@
 	<div>🌱 I’m currently learning web development, data structures, algorithms</div>
 	<div>⚡ Work experience 1 Year</div>
 	<div>🌎 I speak Russian, English, Deutsch</div>
+	<div>🔮 Tech Stack: TypeScript, React, Redux, Zustand</div>
 	<br/>
 	Resume: &nbsp;
 	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >EN</a> | <a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer' >RU</a>
