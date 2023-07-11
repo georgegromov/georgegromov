@@ -32,7 +32,7 @@
 <br>
 
 <div align='right'>
-	<h2>💻 Tech Stack</h2>
+	<h2>💻 Technologies I work with</h2>
 	<div>
 		<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 		<img src="https://img.shields.io/badge/nextJS-000?style=for-the-badge&logo=next.js&logoColor=white" />
