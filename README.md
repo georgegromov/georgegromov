@@ -27,7 +27,7 @@
 	Resume: &nbsp;
 	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >EN</a> | <a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer' >RU</a>
 	<br/>
-	Portfolio: &nbsp;<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >Website</a>
+	Portfolio: &nbsp;<a href="https://gromov13dev.vercel.app/" target='_blank' rel='noopener noreferrer'  >Website</a>
 </div>
 
 <br>
