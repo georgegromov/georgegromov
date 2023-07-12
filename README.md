@@ -18,10 +18,10 @@
 		<img src="https://img.shields.io/badge/Portfolio-593D88?style=for-the-badge&logo=TrustPilot&logoColor=white" alt='Portfolio' />
 	</a>
 	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >
-		<img src="https://img.shields.io/badge/Resume-en-fff?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume en' />
+		<img src="https://img.shields.io/badge/Resume-en-30254B?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume en' />
 	</a>
 	<a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer'>
-		<img src="https://img.shields.io/badge/Resume-ru-fff?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume ru' />
+		<img src="https://img.shields.io/badge/Resume-ru-30254B?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume ru' />
 	</a>
 </div>
 
