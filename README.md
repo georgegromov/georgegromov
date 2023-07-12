@@ -13,6 +13,16 @@
 	<a href='mailto:gromov.dev13@gmail.com'>
 		<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=google&logoColor=white" alt='Email' />
 	</a>
+	<br/><br/>
+	<a href='https://gromov13dev.vercel.app/'>
+		<img src="https://img.shields.io/badge/Portfolio-593D88?style=for-the-badge&logo=TrustPilot&logoColor=white" alt='Portfolio' />
+	</a>
+	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >
+		<img src="https://img.shields.io/badge/Resume-en-fff?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume en' />
+	</a>
+	<a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer'>
+		<img src="https://img.shields.io/badge/Resume-ru-fff?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume ru' />
+	</a>
 </div>
 
 <br>
@@ -23,11 +33,6 @@
 	<div>⚡ Work experience 1 Year</div>
 	<div>🌎 I speak Russian, English, Deutsch</div>
 	<div>🔮 Tech Stack: TypeScript, React, Redux, Zustand</div>
-	<br/>
-	Resume: &nbsp;
-	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >EN</a> | <a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer' >RU</a>
-	<br/>
-	Portfolio: &nbsp;<a href="https://gromov13dev.vercel.app/" target='_blank' rel='noopener noreferrer'  >Website</a>
 </div>
 
 <br>
