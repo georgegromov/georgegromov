@@ -28,8 +28,9 @@
 </div>
 
 <br>
+<br>
 
-<div id='header' align='left'>
+<div id='header' align='center'>
 	<h2>About me</h2>
 	<div>🌱 I’m currently learning web development, data structures, algorithms</div>
 	<div>⚡ Work experience 1 Year</div>
@@ -38,8 +39,9 @@
 </div>
 
 <br>
+<br>
 
-<div align='right'>
+<div align='center'>
 	<h2>💻 Technologies I work with</h2>
 	<div>
 		<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
