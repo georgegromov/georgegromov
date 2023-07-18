@@ -55,12 +55,15 @@
 	<div>
 		<img src="https://img.shields.io/badge/nodejs-5B8F4E?style=for-the-badge&logo=node.js&logoColor=white" />
 		<img src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=000" />
+		<img src="https://img.shields.io/badge/nestjs-EA2845?style=for-the-badge&logo=nestjs&logoColor=fff" />
 		<img src="https://img.shields.io/badge/jwt-000?style=for-the-badge&logo=jwt.io&logoColor=000" />
 		<img src="https://img.shields.io/badge/mogodb-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+		<img src="https://img.shields.io/badge/redis-161F31?style=for-the-badge&logo=redis&logoColor=DC382C" />
 	</div>
 	<div>
-		<img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />
 		<img src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />
+		<img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />
+		<img src="https://img.shields.io/badge/docker-003F8C.svg?&style=for-the-badge&logo=docker&logoColor=fff" />
 		<img src="https://img.shields.io/badge/figma-30254B?style=for-the-badge&logo=figma&logoColor=white" />
 	</div>
 </div>
