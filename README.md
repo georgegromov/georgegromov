@@ -48,7 +48,7 @@
 		<img src="https://img.shields.io/badge/nextJS-000?style=for-the-badge&logo=next.js&logoColor=white" />
 		<img src="https://img.shields.io/badge/astro-30254B?style=for-the-badge&logo=astro&logoColor=white" />
 		<img src="https://img.shields.io/badge/typeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-		<img src="https://img.shields.io/badge/redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+		<img src="https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 		<img src="https://img.shields.io/badge/tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 		<img src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />
 	</div>
@@ -58,7 +58,6 @@
 		<img src="https://img.shields.io/badge/nestjs-EA2845?style=for-the-badge&logo=nestjs&logoColor=fff" />
 		<img src="https://img.shields.io/badge/jwt-000?style=for-the-badge&logo=jwt.io&logoColor=000" />
 		<img src="https://img.shields.io/badge/mogodb-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
-		<img src="https://img.shields.io/badge/redis-161F31?style=for-the-badge&logo=redis&logoColor=DC382C" />
 	</div>
 	<div>
 		<img src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />
