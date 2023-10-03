@@ -33,6 +33,7 @@
 
 <div align='center'>
 	<h2>💻 Technology Stack</h2>
+	<br>
 	<div>
 		<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 		<img src="https://img.shields.io/badge/typeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -40,6 +41,7 @@
 		<img src="https://img.shields.io/badge/nodejs-5B8F4E?style=for-the-badge&logo=node.js&logoColor=white" />
 		<img src="https://img.shields.io/badge/docker-003F8C.svg?&style=for-the-badge&logo=docker&logoColor=fff" />
 	</div>
+	<br>
 </div>
 
 <!--
