@@ -29,6 +29,51 @@
 
 <br>
 <br>
+<br>
+
+<div align='center'>
+	<h2>💻 Technology Stack</h2>
+	<div>
+		<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+		<img src="https://img.shields.io/badge/typeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+		<img src="https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+		<img src="https://img.shields.io/badge/nodejs-5B8F4E?style=for-the-badge&logo=node.js&logoColor=white" />
+		<img src="https://img.shields.io/badge/docker-003F8C.svg?&style=for-the-badge&logo=docker&logoColor=fff" />
+	</div>
+</div>
+
+<!--
+<div id='header' align='center'>
+	<h1>👋 Hello there! I'm George</h1>
+	<h3>Frontend React Developer</h3>
+	<br/>
+	<a href='https://gromov13dev.vercel.app/'>
+		<img src="https://img.shields.io/badge/Portfolio-593D88?style=for-the-badge&logo=TrustPilot&logoColor=white" alt='Portfolio' />
+	</a>
+	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >
+		<img src="https://img.shields.io/badge/Resume-en-30254B?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume en' />
+	</a>
+	<a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer'>
+		<img src="https://img.shields.io/badge/Resume-ru-30254B?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume ru' />
+	</a>
+	<br/><br/>
+	<a href="https://www.linkedin.com/in/george-gromov/">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' />
+	</a>
+	<a href='mailto:gromov.dev13@gmail.com'>
+		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt='Email' />
+	</a>
+	<a href="https://t.me/george_dev13">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt='Telegram' />
+	</a>
+	<a href='mailto:gromov.dev13@gmail.com'>
+		<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=google&logoColor=white" alt='Email' />
+	</a>
+
+</div>
+
+<br>
+<br>
 
 <div id='header' align='center'>
 	<h2>About me</h2>
@@ -68,7 +113,6 @@
 	</div>
 </div>
 
-<!--
 <h2>💻 Tech Stack</h2>
 <div>
 <div>
