@@ -1,4 +1,4 @@
-<div id='header' align=''>
+<div id='header' align='center'>
 	<h1>Hello there! I'm George 👋 </h1>
 	<h3>Frontend React Developer</h3>
 	<br/>
@@ -31,7 +31,7 @@
 <br>
 <br>
 
-<div align=''>
+<div align='center'>
 	<h2>💻 Technology Stack</h2>
 	<br>
 	<div>
