@@ -2,15 +2,15 @@
 	<h1>Hello there! I'm George 👋 </h1>
 	<h3>Frontend React Developer</h3>
 	<br/>
-	<a href='https://gromov13dev.vercel.app/'>
+	<a href='https://gromvgeo.vercel.app/'>
 		<img src="https://img.shields.io/badge/Portfolio-593D88?style=for-the-badge&logo=TrustPilot&logoColor=white" alt='Portfolio' />
 	</a>
-	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >
+<!-- 	<a href="https://resume.io/r/AaOy7ugfU" target='_blank' rel='noopener noreferrer'  >
 		<img src="https://img.shields.io/badge/Resume-en-30254B?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume en' />
 	</a>
 	<a href="https://resume.io/r/mgaLfA28h" target='_blank' rel='noopener noreferrer'>
 		<img src="https://img.shields.io/badge/Resume-ru-30254B?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume ru' />
-	</a>
+	</a> -->
 	<br/><br/>
 	<a href="https://www.linkedin.com/in/george-gromov/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' />
