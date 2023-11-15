@@ -12,13 +12,13 @@
 		<img src="https://img.shields.io/badge/Resume-ru-30254B?style=for-the-badge&labelColor=593D88&logo=SingleStore&logoColor=white" alt='resume ru' />
 	</a> -->
 	<br/><br/>
-	<a href="https://www.linkedin.com/in/george-gromov/">
+<!-- 	<a href="https://www.linkedin.com/in/gromvgeo">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' />
 	</a>
-	<a href='mailto:gromov.dev13@gmail.com'>
+	<a href='https://twitter.com/gromvgeo'>
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt='Email' />
-	</a>
-	<a href="https://t.me/george_dev13">
+	</a> -->
+	<a href="https://t.me/gromvgeo">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt='Telegram' />
 	</a>
 	<a href='mailto:gromov.dev13@gmail.com'>
