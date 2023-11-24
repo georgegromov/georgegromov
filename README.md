@@ -10,7 +10,9 @@
 
 I'm George Gromov, a Frontend Developer from Russia.
 
-Currently, I focus on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
+-	I focus on creating quality UI, application functionality and improving UX
+-	Looking towards Web3.
+-	Learning algorithms and data structures.
 
 
 <br/>
