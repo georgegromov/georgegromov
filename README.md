@@ -11,8 +11,8 @@
 I'm George Gromov, a Frontend Developer from Russia.
 
 -	I focus on creating quality UI, application functionality and improving UX
--	Looking towards Web3.
--	Learning algorithms and data structures.
+-	Looking towards Web3
+-	Learning algorithms and data structures
 </div>
 
 <div align='left'>
