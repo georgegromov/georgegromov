@@ -5,6 +5,8 @@
 
 </div>
 
+<!-- 
+
 <div>
 <h3>🔸 Welcome to my GitHub Profile</h3>
 
@@ -51,7 +53,7 @@ I'm George Gromov, a Frontend Developer from Russia.
 	<br>
 </div>
 
-<!-- 
+
 	<div>
 		<img src="https://img.shields.io/badge/typeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 		<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
