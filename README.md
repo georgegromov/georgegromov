@@ -11,7 +11,6 @@
 
 ### Infrastructure & DevOps
 - Docker, Prometheus, Grafana
----
 
 ## 📫 Contacts
 - Telegram: **@georgegromovtech**
