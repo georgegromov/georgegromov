@@ -6,11 +6,11 @@
 - Tailwind, Shadcn/ui
 
 ### Backend
-- Golang
-- PostgreSQL, Mongodb, Redis
+- Golang, NodeJS/NestJS, Python
+- PostgreSQL, Clickhouse, Mongodb, Redis
 
 ### Infrastructure & DevOps
-- Docker, Prometheus, Grafana
+- k8s, Docker, Prometheus, Grafana, Logstash/Loki
 
 ## 📫 Contacts
 - Telegram: **@georgegromovtech**
