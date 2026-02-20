@@ -17,13 +17,12 @@ Strong ownership mindset. I build systems that scale and survive growth.
 |------|-------|
 | **Core** | React, TypeScript, JavaScript, Next.js |
 | **State Management** | Redux Toolkit, TanStack Query, Zustand, MobX |
-| **Routing** | TanStack Router, React Router |
-| **Architecture** | Modular Architecture, Clean Architecture, BFF, Dependency Injection (InversifyJS), Multi-tenant systems |
 | **Data & APIs** | REST API, GraphQL, WebSocket |
-| **Data Visualization** | Highcharts, Mapbox, Interactive schemas (xyflow), Complex dashboards |
-| **Performance** | Virtualization, Memoization, SSR, Code Splitting, Rendering optimization |
+| **Data Visualization** | Highcharts, Chart.js, Mapbox, React-Flow (xyflow) |
 | **Testing** | Jest, Vitest, React Testing Library, Playwright |
-| **Tooling** | Git, Docker, Webpack, Vite, CI/CD, GitLab |
+|**Languages**|Golang, TypeScript, Python|
+|**Databases**|PostgreSQL, Clickhouse, MongoDB, Redis|
+|**Infrastructure**|Git, Gitlab, CI/CD, Docker, Kubernetes|
 
 ## ⚡ Engineering Focus
 
