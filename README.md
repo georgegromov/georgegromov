@@ -5,7 +5,7 @@ Enterprise SaaS • Real-time Systems • Data-heavy Interfaces • Frontend Arc
 
 ## 🚀 About
 
-Frontend engineer with 5+ years of experience building scalable B2B / Enterprise SaaS platforms.
+Frontend engineer with 4+ years of experience building scalable B2B / Enterprise SaaS platforms.
 
 Focused on designing maintainable frontend architectures, real-time systems and complex analytical interfaces.
 
