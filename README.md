@@ -6,7 +6,7 @@ Enterprise B2B • Energy Tech • Data Intensive Applications • Distributed S
 
 ## 🚀 About
 
-Go developer with experience in distributed systems and data-intensive services in the B2B EnergyTech sector. I worked at a startup as part of a cross-functional team. I have hands-on experience building systems from scratch. I have participated in the hiring process, conducting technical interviews and screening candidates. I also have experience developing services on Node.js and frontend applications on React.
+Software Engineer with experience in distributed systems and data-intensive services in the B2B EnergyTech sector. I worked at a startup as part of a cross-functional team. I have hands-on experience building systems from scratch. I have participated in the hiring process, conducting technical interviews and screening candidates. I also have experience developing services on Node.js and frontend applications on React.
 
 ## 🧠 Technologies
 
