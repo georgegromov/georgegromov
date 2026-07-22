@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George Gromov
 
-Software Engineer (Go / React)
+Full Stack Software Engineer (Go / React)
 
 Enterprise B2B • Energy Tech • Data Intensive Applications • Distributed Systems
 
@@ -8,16 +8,8 @@ Enterprise B2B • Energy Tech • Data Intensive Applications • Distributed S
 
 Software Engineer with experience in distributed systems and data-intensive services in the B2B EnergyTech sector. I worked at a startup as part of a cross-functional team. I have hands-on experience building systems from scratch. I have participated in the hiring process, conducting technical interviews and screening candidates. I also have experience developing services on Node.js and frontend applications on React.
 
-## 🧠 Technologies
+core stack: golang, typescript, python.
 
-| Area | Stack |
-|------|-------|
-| **Core** | Go, TypeScript, React |
-|**Databases**|PostgreSQL, Clickhouse, MongoDB, Redis|
-|**Queues**|Apache Kafka, Nats|
-| **Data & APIs** | REST API, gRPC, GraphQL, WebSocket |
-| **Data Visualization** | Highcharts, Chart.js, Mapbox, React-Flow (xyflow) |
-|**Infrastructure**|Git, Gitlab, CI/CD, Docker, Kubernetes|
 
 ## 📫 Contact
 
