@@ -1,17 +1,28 @@
-# 👋 Hi, I'm George Gromov
+# George Gromov, Golang Developer
 
-Full Stack Software Engineer (Go / React)
+Software Engineer (Go / React)
 
-Enterprise B2B • Energy Tech • Data Intensive Applications • Distributed Systems
+## About
 
-## 🚀 About
+Golang Developer with 2+ years of experience building backend systems. Currently working on an energy asset
+management system that serves over 200 corporate clients and over 1500 pieces of equipment: developed data
+flows separated into write- and read-heavy services, as well as a visualization system for remote asset
+management. My strengths are proactivity and an ownership approach: I propose solutions, involve colleagues,
+and value achieving results together with the team.
 
-Software Engineer with experience in distributed systems and data-intensive services in the B2B EnergyTech sector. I worked at a startup as part of a cross-functional team. I have hands-on experience building systems from scratch. I have participated in the hiring process, conducting technical interviews and screening candidates. I also have experience developing services on Node.js and frontend applications on React.
+## Skills
+- Go, Gin, Chi, Apache Kafka, gRPC, OAuth, Docker, Grafana, Loki, Prometheus, Otel
+- PostgreSQL, Clickhouse, MongoDB, Redis, S3
+- Github Actions, Gitlab CI
+- Other: TypeScript, JavaScript, Python, React
 
-core stack: golang, typescript, python.
+## Education
 
+Volgograd State Technical University,
+- BSc in Computer Science and Computing, 2022-2026
+- MSc in Computer Science and Computing, 2026-2028
 
 ## 📫 Contact
 
-Telegram: https://t.me/georgegromovtech  
-Email: georgegromov.tech@gmail.com
+- Telegram: https://t.me/georgegromovtech
+- Email: georgegromov.tech@gmail.com
