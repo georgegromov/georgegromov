@@ -22,7 +22,7 @@ Volgograd State Technical University,
 - BSc in Computer Science and Computing, 2022-2026
 - MSc in Computer Science and Computing, 2026-2028
 
-## 📫 Contact
+## Contact
 
 - Telegram: https://t.me/georgegromovtech
 - Email: georgegromov.tech@gmail.com
