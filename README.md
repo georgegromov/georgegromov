@@ -1,6 +1,6 @@
 # George Gromov, Golang Developer
 
-Software Engineer (Go / React)
+Software Engineer
 
 ## About
 
